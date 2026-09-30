@@ -23,7 +23,6 @@ Abra o endereço que o Vite mostrar, em geral `http://localhost:5173`.
 
 ## Organização
 
-A estrutura segue a ideia do Trauly: serviço da API, hook do React Query e componentes com stylesheet separado. Os controles visuais (botão, card, input, select, badge, dialog e skeleton) vêm do shadcn.
 
 ```text
 src/
